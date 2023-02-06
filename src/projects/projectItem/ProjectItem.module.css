@@ -1,0 +1,45 @@
+.ProjectItemContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #0080FF;
+    flex-wrap: wrap;
+    border: 1px solid;
+    max-width: 500px;
+    /*box-sizing: border-box;*/
+    padding: 10px;
+
+}
+
+.imageContainer {
+    width: 100%;
+    height: 333px;
+    background-color: #f18d8d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://img.gazeta.ru/files3/397/14400397/chmonya-pic_32ratio_900x600-900x600-7396.jpg");
+    background-size: cover;
+}
+
+.projectInfo {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+
+}
+
+.projectTitle {
+    background-color: #ddeeff;
+    padding: 2px;
+    border: 1px solid;
+}
+
+.description {
+    border: 1px solid;
+    padding: 2px;
+    background-color: #ddeeff;
+
+}

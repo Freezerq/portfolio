@@ -1,0 +1,32 @@
+.main {
+    background-color: #DDEEFF;
+    padding: 50px 0;
+}
+.contactsContainer {
+    padding: 20px 0;
+    justify-content: center;
+    flex-direction: column;
+    border: 1px solid;
+}
+
+.socialMediaItems {
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid;
+}
+
+.title {
+    border: 1px solid;
+
+}
+
+.form {
+    /*width: 100%;*/
+    width: 280px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+
+}

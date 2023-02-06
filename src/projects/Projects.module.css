@@ -1,0 +1,22 @@
+.main {
+    background-color: #efcce5;
+}
+
+
+.title {
+background-color: #ddeeff;
+}
+
+.projectsContainer {
+    flex-direction: column;
+}
+.projects {
+    /*box-sizing: border-box;*/
+    background-color: #efdca9;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    align-items: center;
+    width: 100%;
+}
