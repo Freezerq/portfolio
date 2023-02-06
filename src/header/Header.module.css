@@ -1,11 +1,13 @@
 .main {
     background-color: #cc9c00;
+    justify-content: end;
+    display: flex;
 }
 
 .headerContainer {
     background-color: #ddeeff;
     padding: 20px 0;
     display: flex;
-    justify-content: end;
+    justify-content: end !important;
 
 }
