@@ -1,7 +1,11 @@
-.header {
-    background-color: red;
-    height: 80px;
+.main {
+    background-color: #cc9c00;
+}
+
+.headerContainer {
+    background-color: #ddeeff;
+    padding: 20px 0;
     display: flex;
     justify-content: end;
-    align-items: center;
+
 }
